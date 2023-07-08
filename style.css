@@ -757,7 +757,7 @@ body{
     margin:auto;
     width:800px;
     height:600px;
-    transform:translateY(-150px);
+    transform:translateY(-180px);
     display:flex;
     flex-wrap:wrap;
     align-items:flex-start;
