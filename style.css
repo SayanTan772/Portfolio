@@ -1001,10 +1001,11 @@ body{
 }
 #experience .card-container .exp-card{
     width: 240px;
-    height: 100%;
+    height: auto;
     border-radius: 15px;
     background-color: #ffff;
     margin: 30px 15px 0px 15px;
+    padding-bottom:15px;
     overflow: hidden;
 }
 .invisible{
